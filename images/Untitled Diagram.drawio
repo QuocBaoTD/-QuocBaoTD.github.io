@@ -1,0 +1,51 @@
+<mxfile host="app.diagrams.net" modified="2023-08-08T14:59:40.809Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="nD35hLko5SCmIANwbdSK" version="21.6.6" type="github">
+  <diagram name="Page-1" id="25feiWja0RfKBUPwNDnd">
+    <mxGraphModel dx="880" dy="1546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="m6tW4XZXjFAT17lAM_zO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m6tW4XZXjFAT17lAM_zO-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="-790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m6tW4XZXjFAT17lAM_zO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6tW4XZXjFAT17lAM_zO-1" target="m6tW4XZXjFAT17lAM_zO-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m6tW4XZXjFAT17lAM_zO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6tW4XZXjFAT17lAM_zO-1" target="m6tW4XZXjFAT17lAM_zO-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="-930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m6tW4XZXjFAT17lAM_zO-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;FUNCTION APP CONTAIN HEADER MEMU, FOOTER&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-990" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="m6tW4XZXjFAT17lAM_zO-7" value="HEADER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m6tW4XZXjFAT17lAM_zO-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m6tW4XZXjFAT17lAM_zO-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="-630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m6tW4XZXjFAT17lAM_zO-8" value="MENU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="-800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m6tW4XZXjFAT17lAM_zO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m6tW4XZXjFAT17lAM_zO-9" target="m6tW4XZXjFAT17lAM_zO-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="-650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m6tW4XZXjFAT17lAM_zO-9" value="FOOTER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m6tW4XZXjFAT17lAM_zO-15" value="PIZZASS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-630" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m6tW4XZXjFAT17lAM_zO-17" value="ODER TIME" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-630" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
