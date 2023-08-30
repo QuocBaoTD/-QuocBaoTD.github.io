@@ -1,0 +1,101 @@
+<mxfile host="app.diagrams.net" modified="2023-08-30T07:12:06.259Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="4ZKm0NzSgUzkl81cmvsu" version="21.6.8" type="github">
+  <diagram name="Page-1" id="0cJ4PFHxObpDqsLCqMC-">
+    <mxGraphModel dx="1120" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LYC_Tl_2ZGsvlWDeQb9W-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LYC_Tl_2ZGsvlWDeQb9W-1" target="LYC_Tl_2ZGsvlWDeQb9W-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LYC_Tl_2ZGsvlWDeQb9W-1" value="Need To Store data" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LYC_Tl_2ZGsvlWDeQb9W-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LYC_Tl_2ZGsvlWDeQb9W-2" target="LYC_Tl_2ZGsvlWDeQb9W-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LYC_Tl_2ZGsvlWDeQb9W-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LYC_Tl_2ZGsvlWDeQb9W-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LYC_Tl_2ZGsvlWDeQb9W-2" value="Will data change at some point" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="230" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LYC_Tl_2ZGsvlWDeQb9W-4" value="Regular const variable" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LYC_Tl_2ZGsvlWDeQb9W-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LYC_Tl_2ZGsvlWDeQb9W-6" target="LYC_Tl_2ZGsvlWDeQb9W-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LYC_Tl_2ZGsvlWDeQb9W-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LYC_Tl_2ZGsvlWDeQb9W-6" target="LYC_Tl_2ZGsvlWDeQb9W-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="410" />
+              <mxPoint x="410" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LYC_Tl_2ZGsvlWDeQb9W-6" value="Can be computed from existing sstate/props&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="230" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LYC_Tl_2ZGsvlWDeQb9W-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LYC_Tl_2ZGsvlWDeQb9W-8" target="LYC_Tl_2ZGsvlWDeQb9W-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LYC_Tl_2ZGsvlWDeQb9W-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LYC_Tl_2ZGsvlWDeQb9W-8" target="LYC_Tl_2ZGsvlWDeQb9W-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LYC_Tl_2ZGsvlWDeQb9W-8" value="Should it re-render component" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="230" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LYC_Tl_2ZGsvlWDeQb9W-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LYC_Tl_2ZGsvlWDeQb9W-10" target="LYC_Tl_2ZGsvlWDeQb9W-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LYC_Tl_2ZGsvlWDeQb9W-10" value="Place a new piece of state in component" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="230" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LYC_Tl_2ZGsvlWDeQb9W-12" value="Derive State" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="390" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LYC_Tl_2ZGsvlWDeQb9W-14" value="Ref(useRef, more on this later)" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="370" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LYC_Tl_2ZGsvlWDeQb9W-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LYC_Tl_2ZGsvlWDeQb9W-16" target="LYC_Tl_2ZGsvlWDeQb9W-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LYC_Tl_2ZGsvlWDeQb9W-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LYC_Tl_2ZGsvlWDeQb9W-16" target="LYC_Tl_2ZGsvlWDeQb9W-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LYC_Tl_2ZGsvlWDeQb9W-16" value="Only used by this component ?" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="230" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LYC_Tl_2ZGsvlWDeQb9W-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LYC_Tl_2ZGsvlWDeQb9W-18" target="LYC_Tl_2ZGsvlWDeQb9W-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LYC_Tl_2ZGsvlWDeQb9W-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LYC_Tl_2ZGsvlWDeQb9W-18" target="LYC_Tl_2ZGsvlWDeQb9W-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LYC_Tl_2ZGsvlWDeQb9W-18" value="Also used by a child component?" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="230" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LYC_Tl_2ZGsvlWDeQb9W-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LYC_Tl_2ZGsvlWDeQb9W-20" target="LYC_Tl_2ZGsvlWDeQb9W-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LYC_Tl_2ZGsvlWDeQb9W-20" value="Used by one or a few sibling component" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="230" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LYC_Tl_2ZGsvlWDeQb9W-24" value="Lift state up to first component parent" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="390" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LYC_Tl_2ZGsvlWDeQb9W-26" value="Pass to child via props" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="380" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LYC_Tl_2ZGsvlWDeQb9W-28" value="Leave in component" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="370" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LYC_Tl_2ZGsvlWDeQb9W-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="LYC_Tl_2ZGsvlWDeQb9W-8" target="LYC_Tl_2ZGsvlWDeQb9W-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
